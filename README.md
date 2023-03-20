@@ -1,2 +1,2 @@
 # SkullHunters
-2D PC GAME
+2D platform game
